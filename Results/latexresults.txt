@@ -1,0 +1,111 @@
+LATEX
+
+tensor([10, 11, 12, 39, 40, 41])
+[0m 19s (100 5%) 2.0967]
+Whers exalge.
+Thes.
+Thef ade-mathcegine{lemat
+e $B$ the $F_i$.
+Cers_1, \tal{*}$ is $ \refulinerl $Fe a 
+
+[0m 39s (200 10%) 1.5675]
+Whe prooowr of $G^*$ it $P_2_A \to G_2(D)$ int the sequatitht rent $\textit{Alg}_A$-adequennequate t t 
+
+[0m 58s (300 15%) 1.3269]
+Wherat $B$ the the maversrowsulle $U \xition The wiance $T(B, N)$ the cof cendlencem.
+This diact a per 
+
+[1m 18s (400 20%) 1.3726]
+Whe module the
+functor $A$ is a rifly $T \otimes_A B \omompsetb is and $ $\textit{Alg}_{\xate}
+\label{ 
+
+[1m 37s (500 25%) 0.9554]
+Where (5) imps
+is is that $Rf_** : \underline{A (2) = \mathcal{O}_S$.
+Sede the for
+$\textit{Adeq}(\mat 
+
+[1m 56s (600 30%) 1.2398]
+Whis maps I^i(f \to \Ker(\umal{O})))$.
+\end{enumerate}
+\ing
+by $\functors $M = M \ar[r] \ar[d] & \oplu 
+
+[2m 17s (700 35%) 0.9771]
+When
+Lemma huas that $P_1 \otimes_A N \oplus s_{A 0$ seen that $F(B) \otimes_A, N_2$ is adequate by
+Th 
+
+[2m 36s (800 40%) 0.8016]
+Whit im p_2$, sections bes any and
+$\mathcal{O}$-module. In the grooghereat of $\mathcal{F}_*$ sequenc 
+
+[2m 56s (900 45%) 0.8118]
+Wher catel{N}$ is edefine the notion
+om in in by
+Lemma \ref{lemma-sitem-mapsi-coherear-coherent}-the a 
+
+[3m 14s (1000 50%) 0.8158]
+Where immaded pautered $A$-modules. The derived Adednt $M$ induce
+$$
+0 \to F_{\aduble-injective}
+Let $ 
+
+[3m 33s (1100 55%) 1.4993]
+Whenderval}
+aref are sing
+$\mathcal{F}|_{\itighcal{F}|_2) \to \mathcal{F}|_{S} \bigoplus on $T
+T\oiven 
+
+[3m 52s (1200 60%) 1.0946]
+Where of all functor a ring.
+\end{kerne{proof}
+Proof of quasi-composits in of fumt exact see that exte 
+
+[4m 12s (1300 65%) 1.0334]
+Where $B$. By
+Lemma \ref{lemma-ma-extens}
+Let $A$ be a ring.
+Let $I$ and colimit is a ring. Then $I$ t 
+
+[4m 30s (1400 70%) 1.3083]
+Whe to the coker functors on
+the excacasition ists presenterd module $A$-map $v = \Ker(d(\mathcal{O})) 
+
+[4m 49s (1500 75%) 0.6200]
+Whearly the linel stement is a map lf $F \to \mathbf{H}^\bullet$ is presments from the functor
+$\Ker(\ 
+
+[5m 8s (1600 80%) 1.4544]
+Whij{\endequate}
+Then Iniven $A$ we have an a right projectives}
+
+\begin{proof}
+
+\item $\mathcal{A}$ t 
+
+[5m 27s (1700 85%) 1.1372]
+Where of golipth resolution $\{\item As}
+
+
+
+\begin{proof}
+
+\medskip\noindent
+We claim and with if $F$  
+
+[5m 47s (1800 90%) 1.0256]
+Where $\mathcal{F}))$ inding there exact sequence this we clalus sf^*p_\bullets \textit{Adeq}(\mathbf{ 
+
+[6m 6s (1900 95%) 1.0404]
+Where exacting ins exact $\textit{Adeq}(\mathcal{O}_i(U) \to \bigoplionts, sf $\textit{Adeq}(\mathcal{ 
+
+[6m 25s (2000 100%) 1.2711]
+Whe module.
+\end{enout} = \textit{Alg}_A$ of the implies of
+$F(B) \to \in \Ob(\textit{Alg}_A)$.
+
+\meds 
+
+[<matplotlib.lines.Line2D at 0x7f4d8596c080>]
